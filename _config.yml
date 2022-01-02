@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Amrita amrita"
 title_separator          : "-"
-name                     : &name "Dr. Amrita"
+name                     : &name "Dr. Amrita amrita"
 description              : &description "MBA/MS/PhD/PMP"
 url                      : https://amritaonline.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
